@@ -1,0 +1,11 @@
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\052 - Proyecto extraccion datos SCD\Extraccion datos SCD\Extraccion datos SCD\bin\Debug\Extraccion datos SCD.exe.config
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\052 - Proyecto extraccion datos SCD\Extraccion datos SCD\Extraccion datos SCD\bin\Debug\Extraccion datos SCD.exe
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\052 - Proyecto extraccion datos SCD\Extraccion datos SCD\Extraccion datos SCD\bin\Debug\Extraccion datos SCD.pdb
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\052 - Proyecto extraccion datos SCD\Extraccion datos SCD\Extraccion datos SCD\obj\Debug\Extraccion datos SCD.csproj.AssemblyReference.cache
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\052 - Proyecto extraccion datos SCD\Extraccion datos SCD\Extraccion datos SCD\obj\Debug\Extraccion datos SCD.csproj.SuggestedBindingRedirects.cache
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\052 - Proyecto extraccion datos SCD\Extraccion datos SCD\Extraccion datos SCD\obj\Debug\Extraccion_datos_SCD.Form1.resources
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\052 - Proyecto extraccion datos SCD\Extraccion datos SCD\Extraccion datos SCD\obj\Debug\Extraccion_datos_SCD.Properties.Resources.resources
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\052 - Proyecto extraccion datos SCD\Extraccion datos SCD\Extraccion datos SCD\obj\Debug\Extraccion datos SCD.csproj.GenerateResource.cache
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\052 - Proyecto extraccion datos SCD\Extraccion datos SCD\Extraccion datos SCD\obj\Debug\Extraccion datos SCD.csproj.CoreCompileInputs.cache
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\052 - Proyecto extraccion datos SCD\Extraccion datos SCD\Extraccion datos SCD\obj\Debug\Extraccion datos SCD.exe
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\052 - Proyecto extraccion datos SCD\Extraccion datos SCD\Extraccion datos SCD\obj\Debug\Extraccion datos SCD.pdb
